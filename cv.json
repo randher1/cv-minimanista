@@ -1,0 +1,274 @@
+{
+  "basics": {
+    "name": "Randolf de Jesús Herrera Rincón",
+    "label": "Economista y analista de datos.",
+    "image": "/randolf.webp",
+    "email": "randolfherrerarincon@gmail.com",
+    "phone": "+57 324 548 3324",
+    "url": "www.linkedin.com/in/randolf-herrera-rincón-",
+    "summary": "Más de 3 años de experiencia como Analista de datos, Analista Económico. Vivo en Cartagena, Colombia. He trabajado en diferentes entornos: desde el ámbito publico y privado, en el desarrollo, análisis e implementación de políticas que impacten el desarrollo de la organización.",
+    "location": {
+      "address": "",
+      "postalCode": "130001",
+      "city": "Cartagena",
+      "countryCode": "CO",
+      "region": "Colombia"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "randolf-herrera-rincón-",
+        "url": "https://www.linkedin.com/in/randolf-herrera-rincón-"
+      },
+      {
+        "network": "X",
+        "username": "randolfherrera",
+        "url": "https://x.com/randolfherrera"
+      },
+      {
+        "network": "GitHub",
+        "username": "randher1",
+        "url": "https://github.com/randher1"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Concejo Distrital de Cartagena.",
+      "position": "Asesor externo.",
+      "url": "https://twitch.tv/midudev",
+      "startDate": "2023-09-01",
+      "endDate": "2023-12-31",
+      "summary": "En mi periodo como asesor de un concejal de la ciudad de Cartagena, participé en el estudio y realización de sus proposiciones, analizando los datos solicitados a las diferentes entidades. Utilicé métodos estadísticos y econométricos para tomar decisiones y acciones con respecto a ellos, llegando así a utilizar diferentes formas de dar a conocer los resultados y utilizando varios lenguajes tales como R, Python, bases de datos y dashboard.",
+      "highlights": ["Started the company"]
+    },
+    {
+      "name": "Secretaria del Interior de Cartagena - SICC",
+      "position": "Asesor externo.",
+      "url": "https://twitch.tv/midudev",
+      "startDate": "2021-1-1",
+      "endDate": "2022-12-31",
+      "summary": "Como asesor de planeación y presupuesto, participe en la planificación estratégica del plan anual de caja de la secretaria del interior, ademas en el análisis del presupuesto de dicha dependencia. También realizaba informes sobre como iba la ejecución en el mismo utilizando herramientas tales como R, python entre otras para generar reportes y análisis estadísticos. Otra de mis funciones fue la de proyectar los cdp y rp de la dependencia.",
+      "highlights": ["Started the company"]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Organization",
+      "position": "Volunteer",
+      "url": "https://organization.com/",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Description…",
+      "highlights": ["Awarded 'Volunteer of the Month'"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Universidad de La Guajira.",
+      "url": "https://www.uniguajira.edu.co/",
+      "area": "Economía",
+      "studyType": "Profecional",
+      "startDate": "2016-02-06",
+      "endDate": "2021-06-30",
+      "score": "4.1, Graduado con honores.",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "Award",
+      "date": "2014-11-01",
+      "awarder": "Company",
+      "summary": "There is no spoon."
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Certificate",
+      "date": "2021-11-07",
+      "issuer": "Company",
+      "url": "https://certificate.com"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Publication",
+      "publisher": "Company",
+      "releaseDate": "2014-10-01",
+      "url": "https://publication.com",
+      "summary": "Description…"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Microeconomía",
+      "level": "Master",
+      "keywords": ["Desarrollo Web", "Frontend"]
+    },
+    {
+      "name": "Macroeconomía",
+      "level": "Master",
+      "keywords": ["Desarrollo Web", "Frontend"]
+    },
+    {
+      "name": "Econometría",
+      "level": "Master",
+      "keywords": ["Desarrollo Web", "Frontend"]
+    },
+    {
+      "name": "Estadística",
+      "level": "Master",
+      "keywords": ["Desarrollo Web", "Frontend"]
+    },
+    {
+      "name": "R",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "Backend",
+        "JavaScript Superset"
+      ]
+    },
+    {
+      "name": "Python",
+      "level": "Avanzado",
+      "keywords": [
+        "Bases de Datos",
+        "SQL","Postgresql",
+        "Almacenamiento de Datos",
+        "Backend"
+      ]
+    },
+    {
+      "name": "Django",
+      "level": "Avanzado",
+      "keywords": [
+        "Bases de Datos",
+        "SQL","Postgresql",
+        "Almacenamiento de Datos",
+        "Backend"
+      ]
+    },
+    {
+      "name": "HTML",
+      "level": "Master",
+      "keywords": ["Desarrollo Web", "Frontend"]
+    },
+    {
+      "name": "CSS",
+      "level": "Master",
+      "keywords": ["Desarrollo Web", "Frontend", "Diseño Responsive"]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Master",
+      "keywords": ["Desarrollo Web", "Frontend", "Backend", "Fullstack"]
+    },
+    {
+      "name": "Tailwind",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "CSS Framework",
+        "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "Node",
+      "level": "Avanzado",
+      "keywords": ["Desarrollo Web", "Backend", "JavaScript", "Servidor"]
+    },
+    {
+      "name": "MySQL",
+      "level": "Avanzado",
+      "keywords": [
+        "Bases de Datos",
+        "SQL",
+        "Almacenamiento de Datos",
+        "Backend"
+      ]
+    },
+    {
+      "name": "Postgresql",
+      "level": "Avanzado",
+      "keywords": [
+        "Bases de Datos",
+        "SQL","Postgresql",
+        "Almacenamiento de Datos",
+        "Backend"
+      ]
+    },
+    {
+      "name": "Git",
+      "level": "Avanzado",
+      "keywords": ["Control de Versiones", "Colaboración", "Código Fuente"]
+    },
+    {
+      "name": "GitHub",
+      "level": "Avanzado",
+      "keywords": [
+        "Control de Versiones",
+        "Colaboración",
+        "Código Fuente",
+        "Git"
+      ]
+    },
+    {
+      "name": "Astro",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "React Framework",
+        "SSR",
+        "Static Generation"
+      ]
+    },
+    {
+      "name": "React",
+      "level": "Avanzado",
+      "keywords": ["Desarrollo Web", "Frontend", "JavaScript Library", "UI"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Advanced"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Wildlife",
+      "keywords": ["Ferrets", "Unicorns"]
+    }
+  ],
+  "references": [
+    {
+      "name": "Jane Doe",
+      "reference": "Reference…"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Rumba Segura",
+      "isActive": false,
+      "description": "Estuve, en la construcción e implementación de la herramienta por medio la cual se registraron geoespacialmente locales de esparcimiento en la ciudad de Cartagena.",
+      "highlights": ["R", "shiny app"],
+      "url": "https://rumbasegura.cartagena.gov.co/Inicio"
+    },
+    {
+      "name": "Dashboard Metro Cuadrado Proyecto",
+      "isActive": false,
+      "description": "Proyecto para Talento-Tech, donde se realiza análisi y exploracion de datos de la pagina metro cuadrado.",
+      "highlights": ["Python", "shiny app"],
+      "url": "https://github.com/randher1/proyecto-analisis-de-datos"
+    }
+  ]
+}
